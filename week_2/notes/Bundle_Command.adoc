@@ -1,0 +1,2 @@
+### Bundle Command
+bundle config set --local without 'production'
