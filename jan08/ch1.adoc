@@ -1,9 +1,0 @@
-= Installing Rails
-:awestruct-layout: base
-:showtitle:
-:prev_section: defining-frontmatter
-:next_section: creating-pages
-
-
-In Part I of this book, we’ll introduce you to both the Ruby language and the Rails framework. But we can’t get anywhere until you’ve installed both and verified that they’re operating correctly.
-To get Rails running on your system, you’ll need the following:

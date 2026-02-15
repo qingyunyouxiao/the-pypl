@@ -1,9 +1,0 @@
-asciidoctor -a last-update-label! document.adoc
-
-
-@echo off
-setlocal
-set ORIG_CL="D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx64\x64\cl.exe"
-set DEFAULT_ARGS=/std:c++17 /Zc:__cplusplus /EHsc
-%ORIG_CL% %DEFAULT_ARGS% %*
-endlocal
